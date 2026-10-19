@@ -499,6 +499,11 @@ hash = "806959d4d3444b0539647441b1c98300c1c87db0cc43a4384972206d1f27d10e"
 metafile = true
 
 [[files]]
+file = "mods/easy-npc.pw.toml"
+hash = "4e85680e6c2d068999f4c0171f3689e4b71bab0db0627386ec4e5e80594a5d4d"
+metafile = true
+
+[[files]]
 file = "mods/easy_npc-neoforge-1.21.1-7.16.0.jar"
 hash = "deed20162e40f108417425baec57986381fe7ea5050c8877e4af2a549c98e684"
 
