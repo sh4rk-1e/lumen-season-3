@@ -1004,9 +1004,8 @@ hash = "290f75e537f4dc6f9d4889ad84181d888a5365d393a2f5adb94524dad18719ca"
 metafile = true
 
 [[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "ac16a3b327930527b268695816a0be285bdb0a384480b231c6fd2ccbe87f401f"
-metafile = true
+file = "mods/supplementaries-1.21.1-4.0.1-neoforge.jar"
+hash = "058f05dd26ea6f451ad4c6add5dc08405c0397b3d2e5769249357fb4ff0c981d"
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
