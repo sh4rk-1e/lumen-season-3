@@ -504,18 +504,6 @@ hash = "4e85680e6c2d068999f4c0171f3689e4b71bab0db0627386ec4e5e80594a5d4d"
 metafile = true
 
 [[files]]
-file = "mods/easy_npc-neoforge-1.21.1-7.16.0.jar"
-hash = "deed20162e40f108417425baec57986381fe7ea5050c8877e4af2a549c98e684"
-
-[[files]]
-file = "mods/easy_npc_bundle-neoforge-1.21.1-7.16.0.jar"
-hash = "90af589a5ee23ee571d572d6f91013332e52390d173afe47a2c4ae3e4723036d"
-
-[[files]]
-file = "mods/easy_npc_config_ui-neoforge-1.21.1-7.16.0.jar"
-hash = "e9728577f4ab469da1aa7b8f02de693969b2c36c809007d3cfa8e32b2cc4e297"
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "9237b88b063c87c5f4b5a79c5ff8a7c287537f3deabe04027efee8298ac380dd"
 metafile = true
