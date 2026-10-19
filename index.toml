@@ -963,8 +963,8 @@ file = "mods/sophisticatedcore-1.21.1-1.5.12.2400.jar"
 hash = "e9005bc8bbf434c15a37e4842a05e9a09aa26ddadb4e0e19294c21be41bd401b"
 
 [[files]]
-file = "mods/sophisticatedstorage-1.21.1-1.6.7.2184.jar"
-hash = "377f733da3c155d82cfad2f7e546a216ed331bdaeb1b74f1eee55aac2e460af6"
+file = "mods/sophisticatedstorage-1.21.1-1.6.6.2181.jar"
+hash = "e648921f0d7491d0058487b4501a57dd44b7f5ad56cb84690d63e9d083b1806a"
 
 [[files]]
 file = "mods/spark.pw.toml"
