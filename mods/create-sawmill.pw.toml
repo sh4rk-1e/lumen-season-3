@@ -1,0 +1,13 @@
+name = "Create: Sawmill"
+filename = "create_sawmill-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33e476ac18eb890b6c7cc69c80c122e98b87dab9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8054605
+project-id = 1536681

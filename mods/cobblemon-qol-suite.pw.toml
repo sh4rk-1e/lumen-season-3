@@ -1,0 +1,13 @@
+name = "Cobblemon QoL Suite"
+filename = "cobblemon-qol-suite-neoforge-2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40443604dc3324f090f51657a60e5daf950460b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9141105
+project-id = 1643198

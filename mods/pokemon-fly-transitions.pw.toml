@@ -1,0 +1,13 @@
+name = "Pokemon Fly Transitions"
+filename = "pokemon-fly-transitions-neoforge-1.6.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "827903e8d750c03069dc2aba195cb9a6f19d7bfc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9112924
+project-id = 1604217

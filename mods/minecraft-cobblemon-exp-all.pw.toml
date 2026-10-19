@@ -1,0 +1,13 @@
+name = "Cobblemon - Exp. All"
+filename = "cobblemonexpall-neoforge-0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a1757af7937adc6553ed7747a91ab21513f038d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8590618
+project-id = 1490123

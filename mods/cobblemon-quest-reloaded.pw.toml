@@ -1,0 +1,13 @@
+name = "Cobblemon Quests Reloaded"
+filename = "cobblemon_quests-reloaded-[1.21.1]-neoforge-2.0.2+1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9a759fdd55a08dd86c2bde29a2e62e4f656ed95f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9148242
+project-id = 1389481

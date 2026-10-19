@@ -1,0 +1,13 @@
+name = "Aio's Extra Structures"
+filename = "AioStructures-4.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e2531f43ed2820cafe4f1e518af4ab068857fb9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9151286
+project-id = 1456394

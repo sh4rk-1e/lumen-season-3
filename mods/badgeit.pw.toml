@@ -1,0 +1,13 @@
+name = "badge It !"
+filename = "badgeit-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bJ3uECS8/versions/CpwyMzcj/badgeit-neoforge-1.21.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "320e56d73ff90d35028beafd9acce8d7f39a1a88f08976d700c3a18dafeca8835894c26beb84c1306cc803923f4336396dc84dc8be0bb03a31c4058f0f6491f6"
+
+[update]
+[update.modrinth]
+mod-id = "bJ3uECS8"
+version = "CpwyMzcj"

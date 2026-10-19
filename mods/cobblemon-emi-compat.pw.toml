@@ -1,0 +1,13 @@
+name = "Cobblemon EMI Compat"
+filename = "cobblemon_emi_compat-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6a39d00324b16a8286382a3eec922576e68cc24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7722799
+project-id = 1464340

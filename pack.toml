@@ -1,0 +1,13 @@
+name = "Lumen Season 3"
+author = "aio"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d928a584f652d4b32c7594a99d29c3ff344d40198f18344ae50e65c92cbbdc07"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"

@@ -1,0 +1,13 @@
+name = "Collective"
+filename = "collective-1.21.1-8.58.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6e92d75b9b13286084f6aed34f5475a15dd37926"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9233764
+project-id = 342584

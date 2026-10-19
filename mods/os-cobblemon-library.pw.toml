@@ -1,0 +1,13 @@
+name = "OS Cobblemon Library"
+filename = "os-cobblemon-library-neoforge-1.3.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78cbb8c16333f52b76a76989c1be212d88b991cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9234841
+project-id = 1698981

@@ -1,0 +1,13 @@
+name = "Cobblemon Horde Battles"
+filename = "cobblemon_hordes-0.1.0+neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "628ece7fdb835d3e07ba61d4ded72c78545bd91a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8602068
+project-id = 1644395
