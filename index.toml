@@ -954,19 +954,17 @@ hash = "cf899b372caf49c623f31d0ee62be4ca08b44e12f05a643fc7b84608b8dcb40a"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-core.pw.toml"
-hash = "bedeac40e17ac58b436a4d788250a92461323061f5c9a35ebff86a4701866695"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-storage-create-integration.pw.toml"
 hash = "3d71ac9484fbf77d941c272d87ccd7c9e87364574a167c338b7bcacd1e1063f6"
 metafile = true
 
 [[files]]
-file = "mods/sophisticated-storage.pw.toml"
-hash = "9f50efe25b9ab10d111c215989b60adcfd2cc7d7caa9d9cc5d4c1e525125fea6"
-metafile = true
+file = "mods/sophisticatedcore-26.2-1.5.12.2410.jar"
+hash = "2466baa6d8983e7502f7fc5086fbd3d2d0fd8002d8c1a935850092f155382fac"
+
+[[files]]
+file = "mods/sophisticatedstorage-1.21.1-1.6.7.2184.jar"
+hash = "377f733da3c155d82cfad2f7e546a216ed331bdaeb1b74f1eee55aac2e460af6"
 
 [[files]]
 file = "mods/spark.pw.toml"
