@@ -1,9 +1,29 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/Packwiz.yml"
+hash = "7e2f9852ebaec0c6afc3e8fa6f816f7714282c14c6fee1f78f7811477f069a47"
+
+[[files]]
+file = "LICENSE"
+hash = "e0831bf3d079d127c9a36d5e2dd1cb84c13c1c26cbd6f8bb3518ce475c81159e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2dc498bd8a43a8e02fc9d08fe5846ac17f6eabbecbf38ae39aa7b1f23fe100b0"
 metafile = true
+
+[[files]]
+file = "mods/Design-n-Decor-1.21.1-2.2b.jar"
+hash = "af0264e8ba44b77744d9a6173b79fcc39758c5b975fbb377d4000e85bfcd2c8f"
+
+[[files]]
+file = "mods/Recipes For Create-1.2.1.jar"
+hash = "8ed8bcc07a04d35d347fcf6d47d8b399b9f766f8e51fb8a1ffc48795fa4bc756"
+
+[[files]]
+file = "mods/SafePastures(Fabric)-1.1.2+1.21.1.jar"
+hash = "c923f7cf8f7762b551aacb1e87eca483e99acf7f99cba2ee5796ed1746e06ef0"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -166,9 +186,8 @@ hash = "670aa3a4c200d222f3da09196f18073e6660c0267463b5365b49ed1fa19ec715"
 metafile = true
 
 [[files]]
-file = "mods/cobblemarks-cobblemon.pw.toml"
-hash = "541a19392de7f6707ae01b0f47afef6bd1c7d9dd73b4bf75962b21d63b2dcab4"
-metafile = true
+file = "mods/cobblemarks+-1.2.2-release.jar"
+hash = "b340d66569a5cbe07d5914d309fd155c093fb49d454bd54af69e2f5613457c6c"
 
 [[files]]
 file = "mods/cobblemon-badgebox.pw.toml"
@@ -201,11 +220,6 @@ hash = "1f2cd45c3decc1215fca84fb3df356d017f17dbd130f18704fea55772a140adf"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-pokenav.pw.toml"
-hash = "5e3cc9da18b73a8977c112ffaaaffa4806736be4e94bf3e4f06127d2ae46cafe"
-metafile = true
-
-[[files]]
 file = "mods/cobblemon-qol-suite.pw.toml"
 hash = "27aa0c36302da09640322db44628a2ba8b6e1d2a2a1b9bd4a38696dcbf94fb82"
 metafile = true
@@ -213,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-quest-reloaded.pw.toml"
 hash = "82c1549f82b3c230e864e27928dacdf95f0e191ed7a9d303e42fe17066390c41"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-safepastures.pw.toml"
-hash = "cc7cf1c789649aff348a344b2017661649eec66fdbcf632c3a2cc48bc7f95aa0"
 metafile = true
 
 [[files]]
@@ -239,6 +248,10 @@ metafile = true
 file = "mods/cobblemonraiddens.pw.toml"
 hash = "1cc2b4e2acc9209686457a64df45316f1342e926c757d5bc8f8e0dd62d8d4657"
 metafile = true
+
+[[files]]
+file = "mods/cobblenav-neoforge-2.4.2.jar"
+hash = "7ba8ad4ff7f0dd30dd353f5179dec103491906fbdb6555ca1b3d84eaa92d2126"
 
 [[files]]
 file = "mods/cobbleworkers.pw.toml"
@@ -273,11 +286,6 @@ metafile = true
 [[files]]
 file = "mods/cozy-cafe.pw.toml"
 hash = "f65b6b5cc2bda75a4f081053d846e820f6a5cf6f6f0e6a80f32aa85c6b0a28b8"
-metafile = true
-
-[[files]]
-file = "mods/crafting-recipes-for-create.pw.toml"
-hash = "d15993e833bca8b3f441f3f6a013090f1e168d87d54a0287acfbd209492fe9f7"
 metafile = true
 
 [[files]]
@@ -318,11 +326,6 @@ metafile = true
 [[files]]
 file = "mods/create-deco.pw.toml"
 hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
-metafile = true
-
-[[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "1c4ef917261df03afd366b0c34307ee0fa06374b52b8e88378ce7205ab58d4e1"
 metafile = true
 
 [[files]]
@@ -466,19 +469,8 @@ hash = "efce6a511bf4a60c64fe082fd183c9cd693861fb79413ba540cb1053ff562191"
 metafile = true
 
 [[files]]
-file = "mods/easy-npc-config-ui.pw.toml"
-hash = "752cec23212fca405e27cff0b94e5e29604ac81f1b0c7c42d7394f3c81efaf58"
-metafile = true
-
-[[files]]
-file = "mods/easy-npc-core.pw.toml"
-hash = "806959d4d3444b0539647441b1c98300c1c87db0cc43a4384972206d1f27d10e"
-metafile = true
-
-[[files]]
-file = "mods/easy-npc.pw.toml"
-hash = "4e85680e6c2d068999f4c0171f3689e4b71bab0db0627386ec4e5e80594a5d4d"
-metafile = true
+file = "mods/easy_npc_bundle-neoforge-1.21.1-7.16.0.jar"
+hash = "90af589a5ee23ee571d572d6f91013332e52390d173afe47a2c4ae3e4723036d"
 
 [[files]]
 file = "mods/emi-enchanting.pw.toml"
@@ -516,9 +508,8 @@ hash = "ac4e0cf6211625b432284e8f057592a2a0fa1c2fc33b94f9bf710153c4b79522"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "02d6c9aceef547b018bf3786367ca40f5aec682b8f577e15fb0656811b424d66"
-metafile = true
+file = "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar"
+hash = "fa73ac70a3766568203b730a1573b4b54d88fb48dff4a33d8c4a80be9b8d17d5"
 
 [[files]]
 file = "mods/estrogen.pw.toml"
@@ -911,9 +902,8 @@ hash = "434fbe116618b5b950edcefd05e33f33831b8fa40f47a0970e394f81c3c4c197"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "d317ca83d26b56f8391be44da811fb443bac7f9b49f75e6a2cf48fa95ef22b28"
-metafile = true
+file = "mods/servercore-neoforge-1.5.19+1.21.1.jar"
+hash = "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
 
 [[files]]
 file = "mods/simplehats.pw.toml"
