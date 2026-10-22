@@ -141,11 +141,6 @@ hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
 metafile = true
 
 [[files]]
-file = "mods/better-library.pw.toml"
-hash = "cc8bf5bff76adf40bb3ee07c5bbb4aaa51310a106484482d09bd3a19b19d1319"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
@@ -321,11 +316,6 @@ metafile = true
 [[files]]
 file = "mods/create-better-fps.pw.toml"
 hash = "ec24850fc5b483889ac43bca926720fe80d8779aa69ec8db5e70c5a6bc57909f"
-metafile = true
-
-[[files]]
-file = "mods/create-better-villagers.pw.toml"
-hash = "3c32f2b61b848d25bd09f139e319fb78ec505b80b62b09febb70bc45eeee198a"
 metafile = true
 
 [[files]]
@@ -1018,16 +1008,6 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "3f4ccf8820921a043753e0023173cc7eb225e19fef2ceaeeb0ebd8b2fb7a0c5d"
-metafile = true
-
-[[files]]
-file = "mods/underground-village-stoneholm.pw.toml"
-hash = "2f7758c4210f63c9fc8d05729dbf18c5ca80ffe78bec65ea80d0f736bc5c0f51"
-metafile = true
-
-[[files]]
-file = "mods/underground-villages-stoneholm.pw.toml"
-hash = "77906eb448a5c743c58b8d43871f9b0c80449f6f7257b364167594ca049deb5d"
 metafile = true
 
 [[files]]
