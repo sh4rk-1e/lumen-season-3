@@ -379,11 +379,6 @@ hash = "4744275b4d8f42696051832986adc4b007fcca77dc3a4dda4bb4cd77a946f544"
 metafile = true
 
 [[files]]
-file = "mods/create-integrated-farming.pw.toml"
-hash = "048819dc63310056e9a26ba0bbcf5f629f7c530b58c9ca1777ea39867765bd6c"
-metafile = true
-
-[[files]]
 file = "mods/create-more-package-couriers.pw.toml"
 hash = "e40d86f6a2447a5895fffbfca89a4be276d49bbe794aece1caa5fd24b5746173"
 metafile = true
